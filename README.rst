@@ -11,20 +11,21 @@ discord.py music bot
     # 2. PyNaCl
     py -3 -m pip install -U PyNaCl
 
+~~~~~~~~~~~~~~~~~~
 
 2. install source code:
 
 - `source <https://raw.githubusercontent.com/koperkowice/music_bot/main/main.py>`_
 
-
+~~~~~~~~~~~~~~~~~~
 3. edit a token in a token.json
-
+~~~~~~~~~~~~~~~~~~
 4. run program:
 
 .. code:: sh
     py -3 main.py
 
-
+~~~~~~~~~~~~~~~~~~
 Commands
 ==========
 
