@@ -2,6 +2,8 @@ discord.py music bot
 ==========
 
 install packs:
+
+
 .. code:: sh
 
     # Linux/macOS
