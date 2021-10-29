@@ -23,6 +23,7 @@ discord.py music bot
 4. run program:
 
 .. code:: sh
+
     py -3 main.py
 
 Commands
