@@ -3,12 +3,14 @@ discord.py music bot
 
 1. install packs:
 
+
 .. code:: sh
     # 1. discord.py
     py -3 -m pip install -U discord.py[voice]
     
     # 2. PyNaCl
     py -3 -m pip install -U PyNaCl
+
 
 2. install source code:
 
