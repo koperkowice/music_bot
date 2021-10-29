@@ -1,34 +1,37 @@
 discord.py music bot
 ==========
 
-install packs:
-
+1. install packs:
 
 .. code:: sh
-
-    # Linux/macOS
-    python3 -m pip install -U "discord.py[voice]"
-    python3 -m pip install -U "PyNaCl"
-
-    # Windows
+    # 1. discord.py
     py -3 -m pip install -U discord.py[voice]
+    
+    # 2. PyNaCl
     py -3 -m pip install -U PyNaCl
 
+2. install source code:
 
-how to run?:
+- `source <https://raw.githubusercontent.com/koperkowice/music_bot/main/main.py>`_
 
+
+3. edit a token in a token.json
+
+4. run program:
 
 .. code:: sh
-    # 1. change a 'token.json' file.
-    # 2. add token.
-    # 3. go to cmd (or terminal)
-    # 4. and copy this commands
-    
-    # for linux
-    python3 main.py
-
-    # for windows
     py -3 main.py
 
 
-- `Code <https://raw.githubusercontent.com/koperkowice/music_bot/main/main.py>`_
+Commands
+==========
+
+>join - joins to voice channel
+
+>disconnect - disconnects of channel
+
+>play {url} - plays a music
+
+>pause - pauses music
+
+>resume - resumes music
