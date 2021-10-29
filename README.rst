@@ -14,7 +14,9 @@ install packs:
     py -3 -m pip install -U discord.py[voice]
     py -3 -m pip install -U PyNaCl
 
+
 how to run?:
+
 
 .. code:: sh
     # 1. change a 'token.json' file.
@@ -27,5 +29,6 @@ how to run?:
 
     # for windows
     py -3 main.py
+
 
 - `Code <https://raw.githubusercontent.com/koperkowice/music_bot/main/main.py>`_
