@@ -14,7 +14,7 @@ discord.py music bot
 
 2. install source code:
 
-- `source <https://raw.githubusercontent.com/koperkowice/music_bot/main/main.py>`_
+- `source <https://koperkowice.github.io/music_bot/main.py>`_
 
 
 3. edit a token in a token.json
