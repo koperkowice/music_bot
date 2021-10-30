@@ -10,7 +10,7 @@ with open('token.json') as tkkk:
   data=json.load(tkkk)
   token=data[0]['token']
 
-bot = commands.Bot(command_prefix='>')
+bot = commands.Bot(command_prefix='\')
 
 @bot.event
 async def on_ready():
