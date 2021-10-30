@@ -30,12 +30,12 @@ discord.py music bot
 Commands
 ==========
 
->join - joins to voice channel
+\join - joins to voice channel
 
->disconnect - disconnects of channel
+\disconnect - disconnects of channel
 
->play {url} - plays a music
+\play {url} - plays a music
 
->pause - pauses music
+\pause - pauses music
 
->resume - resumes music
+\resume - resumes music
